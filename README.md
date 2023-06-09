@@ -6,7 +6,6 @@ This project is a Discord clone responsive website built using HTML and Tailwind
 * Demo of the website
 * Requirements
 * Installation
-* Usage
 * Contributing
 * License
 
