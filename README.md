@@ -1,6 +1,6 @@
 # Discord-Clone
 
-This project is a Discord clone responsive website built using HTML and TailwindCSS. It aims to replicate the visual and functional aspects of the popular communication platform Discord. It have responsive design that adapts to different screen sizes.
+This project is a Discord clone built using HTML and TailwindCSS. It aims to replicate the visual and functional aspects of the popular communication platform Discord. It have responsive design that adapts to different screen sizes.
 
 ## Table of Contents
 * Demo of the website
